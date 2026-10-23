@@ -1,0 +1,7 @@
+{
+  "name": "Smart Farmer Assistant",
+  "description": "Smart, simple, accessible agricultural assistant for Indian farmers providing crop guides, APMC market prices, pest diagnosis with photo upload, weather advisories, farm profit calculator, and multilingual AI support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
